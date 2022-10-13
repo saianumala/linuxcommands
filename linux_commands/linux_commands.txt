@@ -12,4 +12,4 @@ groupadd
 groupmod
 chmod
 chown
-
+curl

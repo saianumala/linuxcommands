@@ -1,7 +1,14 @@
 # Linuxcommands
-cat
 
-ls
+## cat
+    
+    Cat command is used for viewing content in a file, it will display the content and exit automatically
+    eg: 1) cat exmaple.txt
+        2) cat example.md
+
+## ls
+    
+
 
 mv
 
