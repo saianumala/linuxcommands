@@ -1,0 +1,16 @@
+# Linuxcommands
+##cat
+##ls
+##mv
+##cp
+##touch
+##vim
+##yum
+##man
+##useradd
+##usermod
+##groupadd
+##groupmod
+##chmod
+##chown
+
